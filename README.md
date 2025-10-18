@@ -53,6 +53,6 @@ Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco uni
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/vivianneferreira/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/VivianneFerreira/count.svg)
 
 ✨ *"Transformar dados em decisões, processos em resultados e ideias em inovação."*
