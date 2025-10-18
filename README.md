@@ -1,6 +1,6 @@
 # Vivianne_Ferreira
 
-# 👋 Olá, eu sou a Vivianne Ferreira!
+# 👋 Hello World, eu sou a Vivi! 🌸
 
 💻 **Assistente de Produção | Controles Industriais – Coca-Cola Andina Brasil**  
 🎓 **Graduanda em Sistemas da Informação**  
