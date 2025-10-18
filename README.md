@@ -41,6 +41,7 @@ Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco uni
 🎓 **Graduação:** Sistemas da Informação  
 🎓 **Técnico:** Eletrônica  
 📜 Formação Iniciante em Programação – Alura + Oracle ONE
+📜 Formação Data Science – Alura + Oracle ONE **loading ...**
 
 ---
 
