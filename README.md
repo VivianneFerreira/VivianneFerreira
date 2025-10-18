@@ -2,16 +2,16 @@
 
 # 👋 Olá, eu sou a Vivianne Ferreira!
 
-💻 **Operadora 1 | Controles Industriais – Coca-Cola Andina Brasil**  
+💻 **Assistente de Produção | Controles Industriais – Coca-Cola Andina Brasil**  
 🎓 **Graduanda em Sistemas da Informação**  
-🔧 Técnica em Eletrônica | Auditora Interna de Sistemas de Gestão Integrada  
+🔧 Técnica em Eletrônica | Auditora Interna de Sistemas de Gestão Integrada da Coca-Cola Andina
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou apaixonada por tecnologia, processos industriais e melhoria contínua.  
-Atuo no setor de **Controles Industriais** na fábrica da **Coca-Cola Andina (Jacarepaguá)**, onde realizo o **monitoramento de indicadores de produtividade, gestão de perdas e análises de insumos** como tampas, pré-formas e filme shrink.
+Atuo no setor de **Controles Industriais** na fábrica da **Coca-Cola Andina (Jacarepaguá)**, onde realizo o **monitoramento de indicadores de produtividade, gestão de perdas e análises de insumos**.
 
 Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco unir meu conhecimento técnico e sistêmico para gerar resultados e otimizar processos produtivos.
 
@@ -23,7 +23,7 @@ Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco uni
 - Automação de processos com Python e Power BI  
 - Planejamento e controle de manutenção (PCM)  
 - Segurança e qualidade industrial  
-- Sistemas de informação aplicados à indústria  
+- Sistemas de informação
 
 ---
 
@@ -41,15 +41,14 @@ Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco uni
 
 🎓 **Graduação:** Sistemas da Informação  
 🎓 **Técnico:** Eletrônica  
-📜 Formação Iniciante em Programação – Alura + Oracle ONE  
-📊 Formação Power BI – Comunidade Data Driven (Reconhecida pelo MEC)
+📜 Formação Iniciante em Programação – Alura + Oracle ONE
 
 ---
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianneferreira)
-[![Email](https://img.shields.io/badge/Email-vivianne%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivianne@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianne-ferreira1208/)
+[![Email](https://img.shields.io/badge/Email-vivianne%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:973374618vivi@gmail.com)
 
 ---
 
