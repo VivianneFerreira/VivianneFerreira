@@ -53,6 +53,6 @@ Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco uni
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/vivianneferreira/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=VivianneFerreira&color=blue)
 
 ✨ *"Transformar dados em decisões, processos em resultados e ideias em inovação."*
