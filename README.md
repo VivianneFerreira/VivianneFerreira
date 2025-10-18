@@ -4,6 +4,7 @@
 
 💻 **Assistente de Produção | Controles Industriais – Coca-Cola Andina Brasil**  
 🎓 **Graduanda em Sistemas da Informação**  
+📜 **Estudante de Data Science da Alura + Oracle ONE** 
 🔧 Técnica em Eletrônica | Auditora Interna de Sistemas de Gestão Integrada da Coca-Cola Andina
 
 ---
