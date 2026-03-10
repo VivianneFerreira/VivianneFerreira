@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 
 Sou apaixonada por tecnologia, processos industriais e melhoria contínua.  
-Atuo no setor de **Controles Industriais** na fábrica da **Coca-Cola Andina (Jacarepaguá)**, onde realizo o **monitoramento de indicadores de produtividade, controle interno de custos e desempenho operacional da organização**.
+Atuo no setor de **Controles Industriais** na fábrica da **Coca-Cola Andina (Jacarepaguá)**, onde realizo o **monitoramento de indicadores de produtividade, controle de custos e otimização do desempenho operacional**.
 
 Com experiência em **TPM, SAP (PM/MM/CO)** e **auditorias internas**, busco unir meu conhecimento técnico e sistêmico para gerar resultados e otimizar processos produtivos.
 
